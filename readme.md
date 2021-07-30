@@ -1,4 +1,4 @@
-## Hello!! i am the Kayk
+## Hello!! I am the Kayk
 ### About me
 <ul>
 <li>📚 I'm studying Systems Development at "Etec de Peruíbe".</li>
