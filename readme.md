@@ -1,8 +1,12 @@
 ## Hello!! I am the Kayk 
+
+<h3>Contacts</h3>
 <div style="display: inline_block">
   <a href="https://www.facebook.com/profile.php?id=100011276137293" target="_blank"><img align="center" height="30" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href="https://www.instagram.com/kayk_arruda/" target="_blank"><img align="center" height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/kayk-santos-a89807217/" target="_blank"><img align="center" height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.reddit.com/user/Etequiano" target="_blank"><img align="center" height="30" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
+  <a href="https://medium.com/@kaykarrudasantos2018" target="_blank"><img align="center" height="30" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 </div><br>
 
 ```
@@ -35,8 +39,16 @@ const me = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaykSantos&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaykSantos&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
+  
+<h3>File versioning</h3>
+<div>
+  <a href="https://github.com/KaykSantos" target="_blank"><img align="center" height="30" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://gitlab.com/KaykSantos" target="_blank"><img align="center" height="30" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
+  <a href="https://bitbucket.org/KaykSantos/" target="_blank"><img align="center" height="30" src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white"></a>
+  <a href="https://pt.stackoverflow.com/users/279571/kayk-santos" target="_blank"><img align="center" height="30" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+</div>  
 
-  ### Skills <a href=""> </a>
+  ### Skills
 <div style="display: inline_block">
   <a href="https://github.com/KaykSantos?tab=repositories&q=&type=&language=javascript&sort="><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
   <a href="https://github.com/KaykSantos?tab=repositories&q=&type=&language=html&sort="><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
