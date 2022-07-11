@@ -29,8 +29,8 @@ const me = {
 <li>📚 I'm studying Systems Development at "Etec de Peruíbe".</li>
 <li>🔎 I intend to work developing desktop/mobile applications.</li>
 <li>📖 I'm studying Python, C#, C++, PHP and SQL, and React .</li>
-<li>🎵 I like electronic music and some other styles.</li>
-<li>🎮 I like to play minecraft</li>
+<li>🎵 I like rock and some other styles.</li>
+<li>🎮 League of Legends</li>
 <li>⚙️ I'm thinking about a future game project</li>
 </ul>
   
