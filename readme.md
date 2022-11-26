@@ -27,7 +27,7 @@ const me = {
 ### About me
 <ul>
 <li>📚 I'm studying Systems Development at "Etec de Peruíbe".</li>
-<li>🔎 I intend to work developing desktop/mobile applications.</li>
+<li>🔎 I intend to work developing desktop/mobile applications and web development.</li>
 <li>📖 I'm studying Python, C#, C++, PHP and SQL, and React .</li>
 <li>🎵 I like rock and some other styles.</li>
 <li>🎮 League of Legends</li>
