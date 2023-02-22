@@ -12,7 +12,7 @@
 ```
 const me = {
   name: "Kayk Almeida de Arruda Santos",
-  age: 16,
+  age: 17,
   education: [
     {
       school: "Etec de Peruíbe",
